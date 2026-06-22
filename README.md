@@ -85,7 +85,7 @@ The architecture is intentionally modular, separating workflow management, image
 
 ### Architecture Diagram
 
-![System Architecture](docs\Room_Cleanliness_Archi.png)
+![System Architecture](https://github.com/0SiddharthKumar0/ML-Based-Room-Cleanliness-Scoring-Validation-Pipeline/blob/main/docs/Room_Cleanliness_Archi.png)
 
 Together, these components form an operational quality assurance platform that extends beyond image classification by combining computer vision, confidence-aware automation, human oversight, and decision traceability into a unified inspection workflow.
 
