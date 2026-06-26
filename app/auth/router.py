@@ -5,7 +5,7 @@ from fastapi import HTTPException
 from sqlalchemy.orm import Session
 
 from app.auth.schemas import UserRegister
-from app.auth.service import create_user
+from app.auth.service import create_user change
 
 
 from app.auth.schemas import UserLogin
